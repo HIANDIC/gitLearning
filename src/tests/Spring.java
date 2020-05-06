@@ -1,10 +1,11 @@
 package tests;
 
-public class deneme {
+public class Spring {
 
     public static void main(String[] args) {
 
 
 
     }
+
 }
